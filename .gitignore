@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Packet Tracer backups
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
